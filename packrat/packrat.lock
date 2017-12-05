@@ -14,6 +14,11 @@ Source: CRAN
 Version: 1.0
 Hash: ff630b2e2012cb43c8d2490764c4e59d
 
+Package: lattice
+Source: CRAN
+Version: 0.20-35
+Hash: 26b9d7f0d0cb4e1d1bbb97f867c82d89
+
 Package: packrat
 Source: CRAN
 Version: 0.4.8-1
@@ -23,3 +28,4 @@ Package: zoo
 Source: CRAN
 Version: 1.8-0
 Hash: df9711767f56f086e8a8d1f0fb926ff6
+Requires: lattice
