@@ -1,0 +1,14 @@
+acss	acss
+alternations	normalize_string
+change_complexity	entropy
+count_class	normalize_string
+entropy	entropy
+entropy2	entropy
+exp1	exp1
+exp2	exp2
+likelihood_d	acss
+likelihood_ratio	acss
+local_complexity	acss
+matthews2013	matthews2013
+normalize_string	normalize_string
+prob_random	acss

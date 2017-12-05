@@ -1,0 +1,9 @@
+acss                    ACSS complexity
+entropy                 Standard measures of complexity for strings
+exp1                    Data from Experiment 1 in Gauvrit, Singmann,
+                        Soler-Toscano & Zenil
+exp2                    Data from Experiment 2 in Gauvrit, Singmann,
+                        Soler-Toscano & Zenil
+matthews2013            Data from Experiment 1 in Matthews (2013)
+normalize_string        Helper functions for calculating cognitive
+                        complexity.

@@ -1,0 +1,25 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.8.1
+RVersion: 3.4.1
+Repos: CRAN=https://cran.rstudio.com/
+
+Package: acss
+Source: CRAN
+Version: 0.2-5
+Hash: 6b3e4f2b59fa53933ae47885c41e2216
+Requires: acss.data, zoo
+
+Package: acss.data
+Source: CRAN
+Version: 1.0
+Hash: ff630b2e2012cb43c8d2490764c4e59d
+
+Package: packrat
+Source: CRAN
+Version: 0.4.8-1
+Hash: 6ad605ba7b4b476d84be6632393f5765
+
+Package: zoo
+Source: CRAN
+Version: 1.8-0
+Hash: df9711767f56f086e8a8d1f0fb926ff6
